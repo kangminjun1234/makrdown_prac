@@ -80,7 +80,7 @@ _single_
 
 __single__
 
-~~cancleline~~
+~cancleline~
 
 *줄바꿈 목록    
 이렇게
